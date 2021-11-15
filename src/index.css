@@ -1,16 +1,14 @@
 body {
-  margin: 0;
-  font-family:'Roboto';
-  -webkit-font-smoothing: antialiased;
-  background-color: #0d012c;
-  color: #adb5d3;
-
+    margin: 0;
+    font-family: "Source Sans Pro 400", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    background-color: #060a17;
+    color: #adb5d3;
 }
-
 
 html,
 body,
 #root {
-  min-height: 100%; /* fallback for IE and older browsers */
-  height: 100%;
+    min-height: 100%; /* fallback for IE and older browsers */
+    height: 100%;
 }
