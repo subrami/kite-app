@@ -7,7 +7,9 @@ a personal web app intended as a lightweight image uploader utilizing digitaloce
 
 
 <Details>
+  
 ![Alt Text](https://media.giphy.com/media/WgHryLDYO7fzEQVFaz/giphy.gif)
+  
 </Details>
 
 
