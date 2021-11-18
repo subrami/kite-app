@@ -14,14 +14,14 @@ a personal web app intended as a lightweight image uploader utilizing digitaloce
 
 
 
-## Stack
+## stack
 frontend made in typescript using react, styled-components, styled-icons, *webpack (w.i.p)*
 backend in typescript using nest.js, digitalocean's spaces api, etc
 
 
 **note:** backend is currently private.
 
-## Usage
+## usage
 
 ```bash
 npm start
